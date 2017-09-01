@@ -1,0 +1,12 @@
+{
+  "name": "nuxt_test",
+  "dependencies": {
+    "nuxt": "^1.0.0-rc8"
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  }
+}
+
